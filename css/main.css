@@ -426,6 +426,7 @@ ul {
   border-radius: 5px;
   cursor: pointer;
 }
+/* ================= footer ================= */
 footer {
   background: var(--header-color);
   color: #fff;
